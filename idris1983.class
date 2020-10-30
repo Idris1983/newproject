@@ -3,6 +3,7 @@ class idris1983
 
                 public static main(string{} args)
                    system.out.println("This is first program here")
+                   system.out.printl("Second line added to the program");
 
 
 
